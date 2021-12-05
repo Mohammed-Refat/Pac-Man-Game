@@ -10,9 +10,9 @@ Placed at the four corners of the maze are large flashing "energizers", or "powe
 The game increases in difficulty as the player progresses; the ghosts become faster and the energizers' effect decreases in duration to the point where the ghosts will no longer turn blue and edible. To the sides of the maze are two "warp tunnels", which allow Pac-Man and the ghosts to travel to the opposite side of the screen. Ghosts become slower when entering and exiting these tunnels. Levels are indicated by the fruit icon at the bottom of the screen. In-between levels are short cutscenes featuring Pac-Man and Blinky in humorous, comical situations. The game becomes unplayable at the 256th level due to an integer overflow that affects the game's memory.
 
 ## Features:
-Save a top Score 
-there are levels Each stage is more difficult than the one before
-Infinte mood to practice to achieve a high score 
+-Save a top Score 
+-there are levels Each stage is more difficult than the one before
+-Infinte mood to practice to achieve a high score 
 
 
 TinyXML-2
