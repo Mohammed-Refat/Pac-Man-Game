@@ -1,4 +1,4 @@
-
+<img src="https://github.com/ziad-khobeiz/Pac-Man/raw/master/assets/logo.png" alt="alt text" style="max-width: 100%;">
 
 
 ## Description:
